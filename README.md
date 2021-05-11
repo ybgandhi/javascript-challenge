@@ -12,3 +12,5 @@ Process:
 * Set up a HTML web page [index.html]
 * analyze the UFO Dataset [data.js]
 * populate the html table with `date/time`, `city`, `state`, `country`, `shape`, and `comment` from the UFO Dateset
+* the app.js script first populates the table with a function to fill in the data into their respective rows and columns
+* the script is also enabled with an event listener function which activated when the user enters and clicks to filter the table by a certain date
